@@ -1,0 +1,12 @@
+body {
+    background-color: #f4f7f6;
+    font-family: Arial, sans-serif;
+}
+
+.table-container {
+    margin-top: 50px;
+}
+
+#searchInput {
+    margin-top: 20px;
+}
